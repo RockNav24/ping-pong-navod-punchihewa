@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PingPongApiApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(PingPongApiApplication.class, args);
 	}
 
